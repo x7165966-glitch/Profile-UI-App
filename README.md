@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="screenshot/relative_screen.jpg" width="250"/>
-<img src="screenshot/constraint_screen.jpg" width="250"/>
+<img src="screenshoot/relative_screen.jpg" width="250"/>
+<img src="screenshoot/constraint_screen.jpg" width="250"/>
 
 </div>
 
